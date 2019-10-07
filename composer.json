@@ -1,5 +1,5 @@
 {
-    "name": "dreamonkey/laravel-cloudfront-url-signer",
+    "name": "owenconti/laravel-cloudfront-url-signer",
     "description": "Laravel 5.6+ wrapper around CloudFront canned signed URLs",
     "keywords": [
         "dreamonkey",
